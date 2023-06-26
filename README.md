@@ -1,9 +1,8 @@
-<!-- HEARER -->
+<!-- HEADER -->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=FFDAB9&height=190&section=header&text=Hanna A. Slivankova %80&desc=frontend%20developer&animation=fadeIn&fontColor=FFEFD5&fontSize=65&fontAlign=68&fontAlignY=44&descSize=18&descAlign=82.5&descAlignY=17" alt="header"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=FFDAB9&height=190&section=header&text=Hanna%20Slivankova&desc=frontend%20developer&animation=fadeIn&fontColor=FFEFD5&fontSize=65&fontAlign=68&fontAlignY=44&descSize=18&descAlign=82.5&descAlignY=17" alt="header"/>
 </div>
-<!-- /HEARER -->
-
+<!-- /HEADER -->
 
 <p align="center">
     <a href="https://t.me/vinnisann" target="_blank">
@@ -32,8 +31,6 @@
     </a>
     <img src="https://komarev.com/ghpvc/?username=AnnaSlivankova&style=for-the-badge&color=lightgrey" alt="counter"/>
 </div>
-
-
 <!-- ./STATS  -->
 
 <br/>
@@ -137,7 +134,6 @@
         <img width="400" title="HannaSlivankova LeetCode Stats" alt="HannaSlivankova LeetCode Stats" src="https://leetcard.jacoblin.cool/HannaSlivankova?border=0&radius=20" />
     </a>
 </div>
-
 
 <!-- FOOTER -->
 <div align="center">
