@@ -58,9 +58,9 @@
              title="Redux" alt="Redux "
              width="40" height="40"/></a>&nbsp;
     <a href="https://nextjs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original-wordmark.svg"
+        <img src="https://assets-global.website-files.com/61eff6b3236cf9057b6c1fac/635543691615050863a92f1f_nextjs-logo.png"
             title="Next.js" alt="Next.js"
-            width="40" height="40" style="background: white"/></a>&nbsp;
+            width="50" height="40"/></a>&nbsp;
     <a href="https://ru.wikipedia.org/wiki/REST" target="_blank">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgh_L2neDttO66M53bUNOTSzTVzAe7cSjKyA&usqp=CAU"
             title="RestAPI" alt="RestAPI"
