@@ -1,11 +1,11 @@
 <!-- HEARER -->
-<div style="text-align: center">
+<div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=FFDAB9&height=190&section=header&text=Hanna A. Slivankova %80&desc=frontend%20developer&animation=fadeIn&fontColor=FFEFD5&fontSize=65&fontAlign=68&fontAlignY=44&descSize=18&descAlign=82.5&descAlignY=17" alt="header"/>
 </div>
 <!-- /HEARER -->
 
 
-<p style="text-align: center">
+<p align="center">
     <a href="https://t.me/vinnisann" target="_blank">
     <img src="https://img.shields.io/badge/-telegram-blue?style=for-the-badge&logo=telegram&logoColor=fff" alt="Telegram Badge">
   </a>
@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<div style="text-align: center">
+<div align="center">
     <a href="https://github.com/AnnaSlivankova?tab=repositories" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=AnnaSlivankova&show_icons=true&count_private=true&hide_border=true&title_color=FFEFD5&text_color=888&icon_color=FFEFD5&bg_color=0000"
              title="AnnaSlivankova github repositories" 
@@ -43,7 +43,7 @@
     <h3>🛠️ Languages and Tools :</h3>
 </div>
 
-<div style="text-align: center">
+<div align="center">
     <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg"
              title="JavaScript" alt="JavaScript"
@@ -124,7 +124,7 @@
 
 <br/>
 
-<div style="text-align: center">
+<div align="center">
     <a href="https://www.codewars.com/users/AnnaSlivankova" target="_blank">
        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDltejE5ZXYyMTY5bndra2pvMXdyY2d5Z2twYXE5NmRtY24yMjE1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif"  width="400" alt="gif"/>
 </a>
@@ -140,7 +140,7 @@
 
 
 <!-- FOOTER -->
-<div style="text-align: center">
+<div align="center">
     <a href=mailto:annslivankova@gmail.com>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=FFDAB9&height=120&section=footer&text=ready%20for%20cooperation&animation=fadeIn&fontColor=FFEFD5&fontSize=12&fontAlign=50&fontAlignY=80&descSize=20&descAlign=84&descAlignY=43" alt="footer"/>
     </a>
