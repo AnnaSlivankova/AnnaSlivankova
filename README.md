@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=FFDAB9&height=190&section=header&text=Hanna%20Slivankova&desc=frontend%20developer&animation=fadeIn&fontColor=FFEFD5&fontSize=65&fontAlign=68&fontAlignY=44&descSize=18&descAlign=82.5&descAlignY=17" alt="header"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=FFDAB9&height=190&section=header&text=Hanna%20Slivankova&desc=fullstack%20developer&animation=fadeIn&fontColor=FFEFD5&fontSize=65&fontAlign=68&fontAlignY=44&descSize=18&descAlign=82.5&descAlignY=17" alt="header"/>
 </div>
 <!-- /HEADER -->
 
@@ -130,9 +130,9 @@
         <img width="320" src="https://www.codewars.com/users/AnnaSlivankova/badges/small"
              title="CodeWars" alt="CodeWars"/>
     </a></p>
-    <a href="https://leetcode.com/HannaSlivankova/" target="_blank">
+<!--     <a href="https://leetcode.com/HannaSlivankova/" target="_blank">
         <img width="400" title="HannaSlivankova LeetCode Stats" alt="HannaSlivankova LeetCode Stats" src="https://leetcard.jacoblin.cool/HannaSlivankova?border=0&radius=20" />
-    </a>
+    </a> -->
 </div>
 
 <!-- FOOTER -->
