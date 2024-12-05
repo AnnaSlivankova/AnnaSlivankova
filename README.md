@@ -133,6 +133,8 @@
 <!--     <a href="https://leetcode.com/HannaSlivankova/" target="_blank">
         <img width="400" title="HannaSlivankova LeetCode Stats" alt="HannaSlivankova LeetCode Stats" src="https://leetcard.jacoblin.cool/HannaSlivankova?border=0&radius=20" />
     </a> -->
+    ### 🔥 GitHub Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnnaSlivankova&theme=dark)](https://git.io/streak-stats)
 </div>
 
 <!-- FOOTER -->
