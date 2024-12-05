@@ -11,7 +11,7 @@
   <a href="https://annaslivankova.github.io/my_portfolio/">
       <img src="https://img.shields.io/badge/👩 Portfolio-FFDAB9?style=for-the-badge" alt="Portfolio Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/anna-slivankova-ba969a156/" target="_blank">
+  <a href="https://www.linkedin.com/in/hanna-slivankova-ba969a156/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=fff" alt="Linkedin Badge">
   </a>
 </p>
